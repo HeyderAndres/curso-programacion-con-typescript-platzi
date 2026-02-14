@@ -13,5 +13,8 @@
     "@faker-js/faker": "^10.3.0",
     "ts-node": "^10.9.2",
     "typescript": "5.9.3"
+  },
+  "dependencies": {
+    "axios": "^1.13.5"
   }
 }
